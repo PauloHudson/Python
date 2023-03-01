@@ -2,7 +2,7 @@
 #escreva o total ganho com juros no periodo
 DInicial = int(input('Digite o Deposito Inicial: '))
 Tjuros = float(input('Digite a taxa de juros %: '))
-ValorMes = int(input('Digite o valor Mensal de investimento'))
+ValorMes = int(input('Digite o valor Mensal de investimento: s'))
 TjurosConvertida = Tjuros / 100
 x = 1
 acumulador = DInicial

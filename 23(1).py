@@ -4,8 +4,9 @@
 
 v1 = int(input('Digite o 1 valor: '))
 v2 = int(input('Digite o 2 valor: '))
-coeficiente = 0
 
+
+coeficiente = 0
 Mutador = v1
 while(Mutador >= v2):
     Mutador = Mutador - v2

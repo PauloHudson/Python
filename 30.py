@@ -21,7 +21,7 @@ while True:
         print('----'*20)
         break
     elif escolha > 0 and escolha < 4:
-        nmr = int(input('Digite a tabuada do numer a ser gerado: '))
+        nmr = int(input('Digite a tabuada do numer0 a ser gerado: '))
         x= 1
         while x <= 10:
             if(escolha == 4):

@@ -1,5 +1,5 @@
 #vair receber um valor
-minutos = int(input('Digite quantos minutos fora usados: '))
+minutos = int(input('Digite quantos minutos foram usados: '))
 
 if(minutos < 200):
     preco = 0.15

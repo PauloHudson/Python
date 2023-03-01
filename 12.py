@@ -5,5 +5,5 @@ if(salario >= 1250):
     novo = ((salario * 0.10) + salario)
     print(f'Salário ajustado para {novo}')
 else:
-    new = ((salario * 0.15) + salario)
+    new = ((salario * 0.50) + salario)
     print(f'Salário ajustado para {new}')
