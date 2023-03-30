@@ -5,6 +5,6 @@ for c in range(2, entrada):
     if(entrada % c == 0):
         contador += 1
 if(contador == 0):
-    print("Número primo")
+    print("Numero primo")
 else:
     print("Número não primo")
